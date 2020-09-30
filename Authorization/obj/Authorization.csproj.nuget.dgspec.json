@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {}
+    "C:\\Users\\user\\Desktop\\Harsha_final\\Authorization\\Authorization\\Authorization.csproj": {}
   },
   "projects": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {
+    "C:\\Users\\user\\Desktop\\Harsha_final\\Authorization\\Authorization\\Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Harsha_final\\Authorization\\Authorization\\Authorization.csproj",
         "projectName": "Authorization",
-        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
-        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\Authorization\\Authorization\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Harsha_final\\Authorization\\Authorization\\Authorization.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Harsha_final\\Authorization\\Authorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
